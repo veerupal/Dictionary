@@ -1,0 +1,3 @@
+C:/Users/veeru/Desktop/JOB/CMakeFiles/Trie.dir
+C:/Users/veeru/Desktop/JOB/CMakeFiles/edit_cache.dir
+C:/Users/veeru/Desktop/JOB/CMakeFiles/rebuild_cache.dir
